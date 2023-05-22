@@ -67,8 +67,8 @@
 	<td><strong>Dev Ops</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=tensorflow,pytorch" height=38><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></td>
-		<td><img src = "https://skillicons.dev/icons?i=selenium,kubernetes,bash,cloudflare,docker,firebase,gcp,github,gitlab,heroku,openshift,appwrite,postman,replit,linux,kafka,git&theme=dark"  height=38></td>
+		<td><img src = "https://skillicons.dev/icons?i=tensorflow,pytorch" height=38><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>  <img src="https://camo.githubusercontent.com/906e661107a3bc03104ca5d88336d1f4b0e80fdcac65efaf7904041d371c747f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67" width="40" height="40"></td>
+		<td><img src = "https://skillicons.dev/icons?i=selenium,kubernetes,bash,cloudflare,aws, azure,docker,firebase,gcp,github,gitlab,heroku,openshift,appwrite,postman,replit,linux,kafka,git&theme=dark"  height=38></td>
 </tr>
 </table>
 <table>
