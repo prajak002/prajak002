@@ -1,7 +1,7 @@
 <!-- Intro Section  -->
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVjZWI5NzM5MzM5OGY4Y2Y0ZWUwZTQ2ODQwNTM3MjYwMmYxZWI1MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uB86ZyWQsnFSGYe2sA/giphy.gif" width="400" height="200"  /></p>
 <div id="about-me" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+PRAJAK!+Learner+Explorer!;I+am+an+aspiring+software+developer+programmer+ML+Enthusiast+blockchain+developer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+PRAJAK!+aspiring+software developerr!;I+am+a+programmer+ML+Enthusiast+blockchain+developer." alt="Typing SVG" /></a>
 </div>
 
 <!-- Social Media -->
