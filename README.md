@@ -92,10 +92,10 @@
 
 | ![](https://github-readme-stats.vercel.app/api?username=prajak002&theme=merko&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=contribs)|
 | --- | --- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajak002&show_icons=true&langs_count=10ocale=en&layout=compact&theme=transparent" width="680" alt="thecleveridiott" /> | [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prajak002&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph) | 
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajak002&show_icons=true&langs_count=10ocale=en&layout=compact&theme=transparent" width="680" alt="thecleveridiott" /> | [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prajak002&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph)  
 
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'></p>
 
  
 
