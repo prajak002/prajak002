@@ -31,7 +31,7 @@
 
  <div align="center">
  
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&no-bg=true)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
  
  </div>
  
@@ -77,7 +77,7 @@
 	<td><strong>Others</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=c,cpp,js,go,graphql,ts,java,,py,rust"></td>
+		<td><img src = "https://skillicons.dev/icons?i=c,cpp,js,go,graphql,ts,java,py,rust"></td>
 		<td><img src = "https://skillicons.dev/icons?i=cmake,postman,redux,remix,webflow,vscode,powershell,matlab,md,latex,fastapi,bots,codepen,atom,arduino&theme=dark"></td>
 </tr>
 </table>
