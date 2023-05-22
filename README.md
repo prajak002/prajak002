@@ -21,7 +21,7 @@
 - 🔭 pre-final year CSE student in IEMK
 - 👯 3+ experiences on full stack web development (MERN)
 - 🌱currently working on WEB3 and blockchain technology
--  💬ask me anything on ***MERN *** ***DSA*** ***AWS*** ***version control***  ***serverless***
+-  💬ask me anything on ***MERN*** ***DSA*** ***AWS*** ***version control***  ***serverless***
 -  👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 ***open-source projects, research opportunities*** 
 -  🌱***AI- DL*** enthusiast, c++ lover ,Linux fanboy 
 -  📫 how to reach me : prajaksen.s@gmail.com
