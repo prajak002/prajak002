@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Prajak</h1>
 <h3 align="center">A Senior, majoring in Computer Science and Engineering at IEM</h3>
 
-<img align='right' src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/images/dp/avatar_wave.png" width="150"> 
+<img align='right' src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/images/dp/avater_wave.png" width="150"> 
 
 🚀 I’m currently working on _BonVoyage_ & _GitTorrent_ <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/loading/loading.gif" alt="sos" width="15" height="15"> <br>
 🔎 I’m looking to collaborate on Open Source and Open Science<br>
