@@ -7,7 +7,7 @@
 👨‍💻 I’m currently hustling<br>
 💭 Ask me about CS, Life and Beyond <br>
 📫 You can reach me at **prajaksen.s@gmail.com**<br>
-🌐 My Personal Website  **[prajak.live](https://prajak-dev.vercel.app/)**  <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15">  
+🌐 My Personal Website  **[portfolio](https://prajak-dev.vercel.app/)**  <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15">  
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/92_prajak?style=social)](https://twitter.com/intent/follow?screen_name=6174_p) 
