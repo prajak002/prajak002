@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋🏽, I'm Manas</h1>
-<h3 align="center">A Senior, majoring in Information Technology at Jadavpur University</h3>
+<h1 align="center">Hi 👋🏽, I'm Prajak</h1>
+<h3 align="center">A Senior, majoring in Computer Science and Engineering at IEM</h3>
 
 <img align='right' src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/images/dp/avatar_wave.png" width="150"> 
 
