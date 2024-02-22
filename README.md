@@ -7,7 +7,7 @@
 🔎 I’m looking to collaborate on Open Source and Open Science<br>
 🎯 I’m looking for full time roles and research opportunities❤️<br>
 👨‍💻 I’m currently hustling<br>
-💭 [Ask me] about CS, Life and Beyond <br>
+💭 Ask me about CS, Life and Beyond <br>
 📫 You can reach me at **prajaksen.s@gmail.com**<br>
 🌐 My Personal Website  **[prajak.live](https://prajak-dev.vercel.app/)**  <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15">  
 
@@ -37,17 +37,15 @@ const pras = {
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "Tensorflow"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Openshift",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "crush's heart ",
+    Motto: "lets explore everything with humble curiosity"
 };
 ```
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An Intuitive Look at the Dynamics of SGD](https://rishit-dagli.github.io/2024/01/01/sgd.html)
-- [The Ferromagnetic Potts Model](https://rishit-dagli.github.io/2023/03/07/ferromagnetic-potts.html)
-- [Compression techniques in Statistical Learning](https://rishit-dagli.github.io/2023/03/06/statistical-learning-using-compression.html)
-- [Review of Domain Generalization using Causal Matching: Causal Learning Series](https://rishit-dagli.github.io/2023/01/20/domain-generalization-using-causal-matching.html)
-- [Kubeflow Pipelines: Orchestrating Machine Learning Workflows - Part 3](https://rishit-dagli.github.io/2022/12/27/kubeflow-pipelines-orchestrating-machine-learning-workflows-part-3.html)
+- [Unveiling the Power of Multi threading: Revolutionizing Scalability in Single-Client Server Design](https://blogoverflow.hashnode.dev/unveiling-the-power-of-multi-threading-revolutionizing-scalability-in-single-client-server-design)
+- [ero-copy-io-for-streaming-sockets-in-c-efficient-data-transfer-with-pre-allocated-buffers](https://blogoverflow.hashnode.dev/zero-copy-io-for-streaming-sockets-in-c-efficient-data-transfer-with-pre-allocated-buffers)
+
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajak002&theme=github_dark)
