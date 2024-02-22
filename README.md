@@ -28,5 +28,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/images/footer/kolkata.png" alt="KolkataFooter">
+  <img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/images/footer/kolkata.png" alt="KolkataFooter">
 </p>  
