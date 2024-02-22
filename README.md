@@ -10,8 +10,8 @@
 💭 [Ask me] about CS, Life and Beyond <br>
 📫 You can reach me at **prajaksen.s@gmail.com**<br>
 🌐 My Personal Website  **[prajak.live](https://prajak-dev.vercel.app/)**  <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15">  
-[![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=92_prajak) 
-[![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)](https://github.com/prajak002) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/92_prajak?style=social)](https://twitter.com/intent/follow?screen_name=92_prajak) 
+[![GitHub followers](https://img.shields.io/github/followers/prajak002?label=Follow&style=social)](https://github.com/prajak002) 
 [![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@prajak1947) 
 [![codechef](https://raw.githubusercontent.com/prajak002/prajak002/main/assets/images/dp/codechef.png)](https://codechef.com/prajak_92)
 
@@ -42,12 +42,6 @@ const pras = {
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajak002&theme=github_dark)
  <div align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajak002&theme=github_dark)
-
-
-
-
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
