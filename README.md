@@ -10,10 +10,13 @@
 💭 [Ask me] about CS, Life and Beyond <br>
 📫 You can reach me at **prajaksen.s@gmail.com**<br>
 🌐 My Personal Website  **[prajak.live](https://prajak-dev.vercel.app/)**  <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15">  
-[![Twitter Follow](https://img.shields.io/twitter/follow/92_prajak?style=social)](https://twitter.com/intent/follow?screen_name=92_prajak) 
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/92_prajak?style=social)](https://twitter.com/intent/follow?screen_name=6174_p) 
 [![GitHub followers](https://img.shields.io/github/followers/prajak002?label=Follow&style=social)](https://github.com/prajak002) 
-[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@prajak1947) 
-[![codechef](https://raw.githubusercontent.com/prajak002/prajak002/main/assets/images/dp/codechef.png)](https://codechef.com/prajak_92)
+[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@prajaksen1947) 
+<a href="https://www.codechef.com/users/prajak_92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prajaksen_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
