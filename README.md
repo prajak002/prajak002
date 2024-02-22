@@ -12,7 +12,7 @@
 🌐 My Personal Website  **[prajak.live](https://prajak-dev.vercel.app/)**  <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15">  
 
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=sanam2405&color=red)
 
