@@ -8,8 +8,8 @@
 🎯 I’m looking for help with making a place in my crush's heart ❤️<br>
 👨‍💻 I’m currently hustling<br>
 💭 [Ask me](https://github.com/sanam2405/sanam2405/issues) about CS, Life and Beyond <br>
-📫 You can reach me at **manaspb2405@gmail.com**<br>
-🌐 My Personal Website  **[sanam.live](https://sanam.live/)**  <img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15">  
+📫 You can reach me at **prajaksen.s@gmail.com**<br>
+🌐 My Personal Website  **[prajak.live](https://prajak-dev.vercel.app/)**  <img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15">  
 
 
 <div align="center">
