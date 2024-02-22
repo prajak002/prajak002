@@ -10,10 +10,10 @@
 💭 [Ask me] about CS, Life and Beyond <br>
 📫 You can reach me at **prajaksen.s@gmail.com**<br>
 🌐 My Personal Website  **[prajak.live](https://prajak-dev.vercel.app/)**  <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15">  
-
-
-<!-- <div align="center"> -->
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=92_prajak) 
+[![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)](https://github.com/prajak002) 
+[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@prajak1947) 
+[![codechef](https://raw.githubusercontent.com/prajak002/prajak002/main/assets/images/dp/codechef.png)](https://codechef.com/prajak_92)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -41,7 +41,7 @@ const pras = {
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajak002&theme=github_dark)
-
+ <div align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajak002&theme=github_dark)
 
 
