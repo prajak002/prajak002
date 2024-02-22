@@ -38,14 +38,14 @@ const pras = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajak002&show_icons=true&include_all_commits=true&theme=radical" alt="Prajak's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajak002&layout=compact&theme=radical" />
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajak002&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajak002&theme=github_dark)
 
 ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Prajak002)
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
