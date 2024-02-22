@@ -43,6 +43,8 @@ const pras = {
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajak002&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajak002&theme=github_dark)
+[![Prajak's github stats](https://github-readme-stats.vercel.app/api?username=Prajak002&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/prajak002)
+
 
 ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Prajak002)
 
