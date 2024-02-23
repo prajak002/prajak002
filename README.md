@@ -25,7 +25,12 @@ const pras = {
     askMeAbout: ["Problem solving", "Machine-learning", "Dev"],
     technologies: {
         backEnd: {
-            js: ["Node","Django", "Express","Go"],
+            js: ["Node", "Express",],
+            Py:["Django", "Flask"],
+            Go:["Gin"],
+            java:["Spring"]
+            
+
         },
         mobileApp: {
             native: ["React Native"]
