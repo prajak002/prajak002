@@ -47,7 +47,7 @@ const pras = {
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Unveiling the Power of Multi threading: Revolutionizing Scalability in Single-Client Server Design](https://blogoverflow.hashnode.dev/unveiling-the-power-of-multi-threading-revolutionizing-scalability-in-single-client-server-design)
-- [ero-copy-io-for-streaming-sockets-in-c-efficient-data-transfer-with-pre-allocated-buffers](https://blogoverflow.hashnode.dev/zero-copy-io-for-streaming-sockets-in-c-efficient-data-transfer-with-pre-allocated-buffers)
+- [Zero-copy-io-for-streaming-sockets-in-c-efficient-data-transfer-with-pre-allocated-buffers](https://blogoverflow.hashnode.dev/zero-copy-io-for-streaming-sockets-in-c-efficient-data-transfer-with-pre-allocated-buffers)
 
 <!-- BLOG-POST-LIST:END -->
 
