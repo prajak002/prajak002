@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Prajak</h1>
 <h3 align="center">A Senior, majoring in Computer Science and Engineering at IEM</h3>
 
-🚀 I’m currently working on _Redhat Openshift_ & _Problem solving_ <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/loading/loading.gif" alt="sos" width="15" height="15"> <br>
+🚀 I’m currently working on _Redhat Openshift_ & _Complex problem solving_ <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/loading/loading.gif" alt="sos" width="15" height="15"> <br>
 🔎 I’m looking to collaborate on Open Source and Open Science<br>
 🎯 I’m looking for full time roles and research opportunities❤️<br>
 👨‍💻 I’m currently hustling<br>
