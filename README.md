@@ -1,127 +1,75 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Prajak | Digital Garden</title>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Fira Code', monospace;
-      background: linear-gradient(135deg, #1d1f21, #3a3d40);
-      color: #f7f7f7;
-      overflow-x: hidden;
-    }
-    header {
-      text-align: center;
-      padding: 5rem 1rem 2rem;
-    }
-    header h1 {
-      font-size: 3rem;
-      background: linear-gradient(to right, #ff6ec4, #7873f5);
-      -webkit-background-clip: text;
-      color: transparent;
-      animation: pulse 2s ease-in-out infinite alternate;
-    }
-    header p {
-      font-style: italic;
-      color: #ccc;
-      max-width: 700px;
-      margin: 0 auto;
-      font-size: 1.2rem;
-    }
-    .profile-pic {
-      width: 180px;
-      border-radius: 50%;
-      margin-top: 2rem;
-      transition: transform 0.3s ease-in-out;
-    }
-    .profile-pic:hover {
-      transform: scale(1.1);
-    }
-    section {
-      padding: 2rem;
-      max-width: 900px;
-      margin: auto;
-    }
-    section h2 {
-      color: #fca5a5;
-      margin-top: 2rem;
-    }
-    .code-box {
-      background-color: #2d2f33;
-      padding: 1rem;
-      border-radius: 10px;
-      margin-top: 1rem;
-      font-size: 0.9rem;
-      overflow-x: auto;
-    }
-    .blog-posts a {
-      display: block;
-      color: #93c5fd;
-      margin: 0.5rem 0;
-      text-decoration: none;
-    }
-    .blog-posts a:hover {
-      text-decoration: underline;
-    }
-    footer {
-      text-align: center;
-      margin-top: 4rem;
-      padding: 2rem;
-      font-size: 1rem;
-      background-color: #111;
-      color: #aaa;
-    }
-    @keyframes pulse {
-      from { transform: scale(1); }
-      to { transform: scale(1.05); }
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Hi 👋🏽, I'm Prajak</h1>
-    <p>🌌 Exploring the convergence of <strong>Art</strong>, <strong>Nature</strong>, <strong>Science</strong>, and <strong>Technology</strong> — reflecting the eternal human urge to preserve <em>beauty</em>, seek <em>truth</em>, and encode <em>meaning</em> across generations.</p>
-    <img class="profile-pic" src="https://github.com/prajak002/prajak002/blob/main/mestyeghibli-removebg-preview.png" alt="Prajak">
-  </header>
-  
-  <section>
-    <h2>🚀 About Me</h2>
-    <ul>
-      <li>🧠 Software Developer & Deep Thinker</li>
-      <li>🤝 Open Source & Open Science Enthusiast</li>
-      <li>🔬 Curious Research Aspirant</li>
-      <li>💭 Currently overthinking about... everything</li>
-      <li>📬 Reach me: <a href="mailto:prajaksen.s@gmail.com">prajaksen.s@gmail.com</a></li>
-      <li>🌐 Portfolio: <a href="https://prajak-dev.vercel.app/" target="_blank">prajak-dev.vercel.app</a></li>
-    </ul>
+<h1 align="center">Hi 👋🏽, I'm Prajak</h1>
 
-    <h2>🛠️ Code Playground</h2>
-    <div class="code-box">
-<pre>
-const pra = {
+<h3 align="center"><i>Reflecting on the convergence of <b>art</b>, <b>nature</b>, <b>science</b>, and <b>technology</b> — including the human desire to <b>store</b> and <b>preserve</b> beauty, meaning, and truth across generations.</i></h3>
+
+<img src="https://github.com/prajak002/prajak002/blob/main/mestyeghibli-removebg-preview.png" alt="Prajak's Photo" align="right" width="200" style="border-radius: 15px; margin: 10px;"/>
+
+🚀 I’m currently working as a **Software Developer** <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/loading/loading.gif" alt="loading" width="15" height="15"><br>
+🔎 I’m looking to collaborate on **Open Source** and **Open Science**<br>
+🎯 Actively seeking **research opportunities** ❤️<br>
+👨‍💻 Currently overthinking about the *future*<br>
+💭 Ask me about **CS**, **Maths**, **ML**, *Life and Beyond*<br>
+📫 You can reach me at **prajaksen.s@gmail.com**<br>
+🌐 My Personal Website → **__[portfolio](https://prajak-dev.vercel.app/)__** <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15">
+
+<p align="left">
+  <a href="https://twitter.com/92prajak"><img src="https://img.shields.io/twitter/follow/92prajak?style=social" /></a>
+  <a href="https://github.com/prajak002"><img src="https://img.shields.io/github/followers/prajak002?label=Follow&style=social" /></a>
+  <a href="https://medium.com/@prajaksen1947"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg" /></a>
+  <a href="https://www.codechef.com/users/p_6174"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/Prajak_Sen"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/prajaksen_s"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const pras = {
   pronouns: "He" | "Him",
-  languages: ["C++", "Python", "JS", "Go", "Java"],
-  tools: ["Flask", "Django", "React Native", "Docker", "AWS"],
-  databases: ["MongoDB", "MySQL", "PostgreSQL"],
+  code: ["C++", "Python", "Javascript", "PHP", "Go", "SQL", "Java"],
+  askMeAbout: ["Problem solving", "Machine-learning", "Dev"],
+  technologies: {
+    backEnd: {
+      js: ["Node", "Express"],
+      Py: ["Django", "Flask"],
+      Go: ["Gin"],
+      java: ["Spring"]
+    },
+    mobileApp: {
+      native: ["React Native"]
+    },
+    devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Git/github"],
+    databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL"],
+    misc: ["Firebase", "Socket.IO", "Selenium", "OpenCV", "PHP", "TensorFlow", "AWS"]
+  },
+  architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
   currentFocus: "crush's heart 💘",
-  motto: "Let's explore everything with humble curiosity"
+  motto: "Let's explore everything with humble curiosity."
 };
-</pre>
-    </div>
+```
 
-    <h2>📕 Blog Posts</h2>
-    <div class="blog-posts">
-      <a href="https://blogoverflow.hashnode.dev/unveiling-the-power-of-multi-threading-revolutionizing-scalability-in-single-client-server-design">🔥 Unveiling the Power of Multithreading</a>
-      <a href="https://blogoverflow.hashnode.dev/zero-copy-io-for-streaming-sockets-in-c-efficient-data-transfer-with-pre-allocated-buffers">💡 Zero-Copy IO in C for Efficient Streaming</a>
-    </div>
-  </section>
+---
 
-  <footer>
-    🌍 Based in Kolkata | Made with 💙 in Code<br>
-    Let's connect and build something beautiful 🌱
-  </footer>
-</body>
-</html>
+### 📕 Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+- [Unveiling the Power of Multithreading: Revolutionizing Scalability in Single-Client Server Design](https://blogoverflow.hashnode.dev/unveiling-the-power-of-multi-threading-revolutionizing-scalability-in-single-client-server-design)
+- [Zero-copy IO for Streaming Sockets in C: Efficient Data Transfer with Pre-allocated Buffers](https://blogoverflow.hashnode.dev/zero-copy-io-for-streaming-sockets-in-c-efficient-data-transfer-with-pre-allocated-buffers)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajak002&theme=github_dark)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <em><b>I love connecting with different people</b> — so if you want to say <b>hi</b>, I’ll be happy to meet you more! 😊</em>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/images/footer/kolkata.png" alt="KolkataFooter">
+  </p>
+</div>
+```
