@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Prajak</h1>
-<h3 align="center">A Software Developer </h3>
+<h3 align="center">Reflecting on the convergence of art, nature, science, and technology :including the human desire to store and preserve beauty, meaning, and truth across generations</h3>
 <img src="https://github.com/prajak002/prajak002/blob/main/mestyeghibli-removebg-preview.png" alt="Prajak's Photo" align="right" width="200" style="border-radius: 15px; margin: 10px;"/>
 🚀 I’m currently working  as a Software Developer <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/loading/loading.gif" alt="sos" width="15" height="15"> <br>
 🔎 I’m looking to collaborate on Open Source and Open Science<br>
