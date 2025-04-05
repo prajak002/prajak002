@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏽, I'm Prajak</h1>
 <h3 align="center">A Senior, majoring in Computer Science and Engineering at IEM</h3>
 <img src="https://github.com/prajak002/prajak002/blob/main/mestyeghibli-removebg-preview.png" alt="Prajak's Photo" align="right" width="200" style="border-radius: 15px; margin: 10px;"/>
-🚀 I’m currently working on _Redhat Openshift_ & _Complex problem solving_ <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/loading/loading.gif" alt="sos" width="15" height="15"> <br>
+🚀 I’m currently working  as a Software Developer <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/loading/loading.gif" alt="sos" width="15" height="15"> <br>
 🔎 I’m looking to collaborate on Open Source and Open Science<br>
-🎯 I’m looking for full time roles and research opportunities❤️<br>
-👨‍💻 I’m currently hustling<br>
-💭 Ask me about CS, Life and Beyond <br>
+🎯 I’m looking for research opportunities ❤️<br>
+👨‍💻 I’m currently overthinking about future<br>
+💭 Ask me about CS, Maths, ML, Life and Beyond <br>
 📫 You can reach me at **prajaksen.s@gmail.com**<br>
 🌐 My Personal Website  **[portfolio](https://prajak-dev.vercel.app/)**  <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15">  
 
