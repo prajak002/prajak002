@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏽, I'm Prajak</h1>
 
-<h3 align="center"><i>Reflecting on the convergence of <b>art</b>, <b>nature</b>, <b>science</b>, and <b>technology</b> — including the human desire to <b>store</b> and <b>preserve</b> beauty, meaning, and truth across generations.</i></h3>
+<h3 align="center"><i>Exploring on the convergence of <b>art</b>, <b>nature</b>, <b>science</b>, and <b>technology</b> — including the human desire to <b>store</b> and <b>preserve</b> beauty, meaning, and truth across generations.</i></h3>
 
 <img src="https://github.com/prajak002/prajak002/blob/main/mestyeghibli-removebg-preview.png" alt="Prajak's Photo" align="right" width="200" style="border-radius: 15px; margin: 10px;"/>
 
