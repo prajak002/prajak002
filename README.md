@@ -69,7 +69,7 @@ const pras = {
  <em><b>Wandering through worlds and weaving stories with strangers</b> — if your path crosses mine, don’t hesitate to drop a <b>hello</b>. Let’s vibe over sunrises, serendipity, and shared journeys. 🌿🌍🔥</em>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/sanam2405/sanam2405/main/assets/images/footer/kolkata.png" alt="KolkataFooter">
+    <img src="https://github.com/prajak002/prajak002/blob/main/kolkata-removebg-preview.png" alt="KolkataFooter">
   </p>
 </div>
 ```
