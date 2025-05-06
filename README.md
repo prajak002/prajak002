@@ -60,6 +60,7 @@ const pras = {
 
 ---
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajak002&theme=dark)
+<h3 align="center">From  কলকাতা</h1>
 
 
 ---
