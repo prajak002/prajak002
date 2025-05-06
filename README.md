@@ -59,8 +59,8 @@ const pras = {
 <!-- BLOG-POST-LIST:END -->
 
 ---
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajak002&theme=dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajak002)
 
 ---
 
