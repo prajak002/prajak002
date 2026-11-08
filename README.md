@@ -1,78 +1,44 @@
-<h1 align="center">Hi 👋🏽, I'm Prajak</h1>
+<h1 align="center">Prajak Sen</h1>
+<p align="center"><b>AI researcher · 3D vision · world models · embodied AI</b></p>
 
-<h3 align="center"><i>Exploring on the convergence of <b>art</b>, <b>nature</b>, <b>science</b>, and <b>technology</b> — including the human desire to <b>store</b> and <b>preserve</b> beauty, meaning, and truth across generations.</i></h3>
-
-<img src="https://github.com/prajak002/prajak002/blob/main/mestyeghibli-removebg-preview.png" alt="Prajak's Photo" align="right" width="200" style="border-radius: 15px; margin: 10px;"/>
-
-🚀 I’m currently working as a **Software Developer** <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/loading/loading.gif" alt="loading" width="15" height="15"><br>
-🔎 I’m looking to collaborate on **Open Source** and **Open Science**<br>
-🎯 Actively seeking **research opportunities** ❤️<br>
-👨‍💻 Currently overthinking about the *future*<br>
-💭 Ask me about **CS**, **Maths**, **ML**, *Life and Beyond*<br>
-📫 You can reach me at **prajaksen.s@gmail.com**<br>
-🌐 My Personal Website → **__[portfolio](https://prajak-dev.vercel.app/)__** <img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/icons/sos/sos.gif" alt="sos" width="20" height="15">
-
-<p align="left">
-  <a href="https://twitter.com/92prajak"><img src="https://img.shields.io/twitter/follow/92prajak?style=social" /></a>
-  <a href="https://github.com/prajak002"><img src="https://img.shields.io/github/followers/prajak002?label=Follow&style=social" /></a>
-  <a href="https://medium.com/@prajaksen1947"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg" /></a>
-  <a href="https://www.codechef.com/users/p_6174"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/Prajak_Sen"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/prajaksen_s"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://prajak-dev.vercel.app/"><img src="https://img.shields.io/badge/portfolio-prajak--dev-0f172a?style=flat-square"/></a>
+  <a href="mailto:prajaksen.s@gmail.com"><img src="https://img.shields.io/badge/email-prajaksen.s%40gmail.com-0f172a?style=flat-square"/></a>
+  <a href="https://twitter.com/92prajak"><img src="https://img.shields.io/badge/X-@92prajak-0f172a?style=flat-square"/></a>
+  <a href="https://medium.com/@prajaksen1947"><img src="https://img.shields.io/badge/blog-medium-0f172a?style=flat-square"/></a>
 </p>
 
----
+<img src="https://github.com/prajak002/prajak002/blob/main/mestyeghibli-removebg-preview.png" align="right" width="170"/>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+I build models that **see, reconstruct and act** in 3D, and I test where they break.
 
-```javascript
-const pras = {
-  pronouns: "He" | "Him",
-  code: ["C++", "Python", "Javascript", "PHP", "Go", "SQL", "Java"],
-  askMeAbout: ["Problem solving", "Machine-learning", "Dev"],
-  technologies: {
-    backEnd: {
-      js: ["Node", "Express"],
-      Py: ["Django", "Flask"],
-      Go: ["Gin"],
-      java: ["Spring"]
-    },
-    mobileApp: {
-      native: ["React Native"]
-    },
-    devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Git/github"],
-    databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL"],
-    misc: ["Firebase", "Socket.IO", "Selenium", "OpenCV", "PHP", "TensorFlow", "AWS"]
-  },
-  architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
-  currentFocus: "crush's heart 💘",
-  motto: "Let's explore everything with humble curiosity."
-};
-```
+- 🧊 **3D reconstruction**: feed-forward geometry (VGGT, Pi3, Depth Anything 3), hallucination and abstention
+- 🌍 **World models**: latent dynamics, JEPA-style prediction, dense scene generation
+- 🤖 **Embodied AI**: vision-language-action policies, MuJoCo simulation, navigation
+- 🧠 **Reasoning**: ARC-AGI, neuro-symbolic transfer
 
----
+Open to **research collaborations**. Open science, pre-registered results, honest baselines.
 
-### 📕 Latest Blog Posts  
+### Selected work
+
+| | |
+|---|---|
+| [**DTU-3D-reconstruction**](https://github.com/prajak002/DTU-3D-reconstruction) | Do 3D foundation models invent geometry they never saw? A benchmark and a support detector |
+| [**Heteroworld**](https://github.com/prajak002/Heteroworld) · [**densewalk**](https://github.com/prajak002/densewalk) | World-model experiments for scene dynamics and dense walks |
+| [**PragyaVLA**](https://github.com/prajak002/PragyaVLA) · [**AutoBio**](https://github.com/prajak002/AutoBio-Virtual-Biology-Lab-Prototype) | VLA policies and a simulated biology lab |
+| [**symbolic-geometry-transfer**](https://github.com/prajak002/symbolic-geometry-transfer) | Neuro-symbolic transfer in RL via invariant geometry |
+
+### Stack
+
+`PyTorch` `JAX` `CUDA` `MuJoCo` `Open3D` `Python` `C++` `TypeScript` `Docker` `AWS`
+
+### Writing
 <!-- BLOG-POST-LIST:START -->
 - [Unveiling the Power of Multithreading: Revolutionizing Scalability in Single-Client Server Design](https://blogoverflow.hashnode.dev/unveiling-the-power-of-multi-threading-revolutionizing-scalability-in-single-client-server-design)
 - [Zero-copy IO for Streaming Sockets in C: Efficient Data Transfer with Pre-allocated Buffers](https://blogoverflow.hashnode.dev/zero-copy-io-for-streaming-sockets-in-c-efficient-data-transfer-with-pre-allocated-buffers)
 <!-- BLOG-POST-LIST:END -->
 
----
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajak002&theme=dark)
-
-
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
- <em><b>Wandering through worlds and weaving stories with strangers</b> — if your path crosses mine, don’t hesitate to drop a <b>hello</b>. Let’s vibe over sunrises, serendipity, and shared journeys. 🌿🌍🔥</em>
-
-  <p align="center">
-    <img src="https://github.com/prajak002/prajak002/blob/main/kolkata-removebg-preview.png" alt="KolkataFooter">
-  </p>
-</div>
-
-
-  <h3 align="center"> From — কলকাতা</h3>
+<p align="center">
+  <img src="https://github.com/prajak002/prajak002/blob/main/kolkata-removebg-preview.png" width="420"/><br/>
+  <sub>From কলকাতা · Explore everything with humble curiosity.</sub>
+</p>
