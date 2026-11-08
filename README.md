@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/neural-banner.svg" width="100%" alt="retro CRT trace of a transformer block: tokens → embeddings → causal attention matrix → feed-forward network → output"/>
+<img src="https://raw.githubusercontent.com/prajak002/prajak002/main/assets/neural-banner.svg" width="100%" alt="would you see then what I see now? A transformer block as a life: the cruise as input, memories attending to each other, a lighthouse as the feed-forward escape"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=15&duration=3200&pause=1000&color=39FF14&center=true&vCenter=true&width=560&lines=%3E+booting+prajak.sys...;%3E+teaching+machines+to+see+in+3D.;%3E+and+to+admit+what+they+didn't+see.;%3E+world+models+%C2%B7+embodied+AI+%C2%B7+geometry." alt="typing banner"/>
 
